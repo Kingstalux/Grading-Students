@@ -17,5 +17,6 @@ const gradingStudents = (grades) => {
     return results
 }
 
-grades = [4, 67, 73, 38, 33]
+grades = [84, 29, 57]
+//[85, 29,  57]
 console.log(gradingStudents(grades));
